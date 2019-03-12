@@ -1,4 +1,4 @@
-# Desafio seleção de Estágio | Web Developer
+# Desafio seleção de Estágio 2019| Web Developer
 
 O exercício consiste em consumir a [API Random User](https://randomuser.me) e montar uma visualização para os dados capturados. A documentação da API pode ser encontrada em: [API Random User Documentation](https://randomuser.me/documentation).
 
