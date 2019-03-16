@@ -26,3 +26,6 @@ Utilização de tecnologias como o Angular 2+, React e NodeJS.
 - Criar uma nova tela com gráficos de total de usuário por idade, nação e gênero;
 - Na tela inicial, de lista de usuário, deve ser possível filtrar por nome e e-mail;
 - O aplicativo deve possuir uma página, ou algum tratamento de erro, para quando for acessado offline ou acontecer algum problema de conexão com a API;
+
+![](imgs/img1.png)
+![](imgs/img2.png)
